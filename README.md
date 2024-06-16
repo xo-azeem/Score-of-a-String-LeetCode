@@ -18,5 +18,5 @@ My Solution Analysis:
 
   ![image](https://github.com/xo-azeem/Score-of-a-String-LeetCode/assets/171427226/8d2cd063-0bc0-4ce8-9eb2-d16fc747db6a)
 
-  Time Complexity: O(n)
+  Time complexity: O(n).</br>Space complexity: O(1).
 </div>
